@@ -1,0 +1,51 @@
+.caro-style .dress-box{
+    border: 1px solid #088178;
+    width: 100%;
+    padding-left: 15px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    border-radius: 8px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    cursor: pointer;
+}
+.caro-style .dress-box img{
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+.caro-style .dress-box h5{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.caro-style .dress-box .star .ratting{
+    color:orange;
+    font-size: 14px;
+}
+.caro-style .dress-box .des span{
+    font-size: 13px;
+    color:gray;
+}
+
+.caro-style .dress-box .des .price-cart{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.caro-style .dress-box .des .price-cart .cart-desing{
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 50px;
+    background-color: #e8f6ea;
+    color: #088178;
+    border: 1px solid #cce7d0;
+    position: absolute;
+    bottom: 0px;
+    right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
